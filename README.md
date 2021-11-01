@@ -7,4 +7,4 @@ This python program is made for students whose classes are taken on google meet 
 
 This program will work seamlessly with this extension: https://shorturl.at/oNRY0
 
-More info in wiki.
+More info on wiki: https://github.com/anirudhp06/JoinClass/wiki
